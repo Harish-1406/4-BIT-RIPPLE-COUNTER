@@ -64,4 +64,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/3e2a05d2-00fc-413e-b020-b0361171d1d9)
 
 **RESULTS**
+
 Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
